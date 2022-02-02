@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="FAINTBOOK LOGO.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:snap-others="true"
+     inkscape:zoom="0.44471396"
+     inkscape:cx="736.42842"
+     inkscape:cy="581.27251"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6389" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6278">
+      <stop
+         style="stop-color:#000ecf;stop-opacity:1"
+         offset="0"
+         id="stop6274" />
+      <stop
+         style="stop-color:#000e41;stop-opacity:1"
+         offset="1"
+         id="stop6276" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB;"
+       id="filter928"
+       x="-0.0031558185"
+       y="-0.0031558185"
+       width="1.0063116"
+       height="1.0063116"
+       inkscape:label="Pixellize"
+       inkscape:menu="Pixel Tools"
+       inkscape:menu-tooltip="Reduce or remove antialiasing around shapes">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.27487484"
+         id="feGaussianBlur930"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix6391" />
+      <feColorMatrix
+         id="feColorMatrix6393"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1000 -500 "
+         in="fbSourceGraphic" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6278"
+       id="linearGradient6280"
+       x1="196.35516"
+       y1="47.192966"
+       x2="-0.57115352"
+       y2="243.31154"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient6280);fill-opacity:1;stroke-width:0.27589;filter:url(#filter928)"
+       id="rect31"
+       width="209.04231"
+       height="209.04231"
+       x="-0.57115352"
+       y="34.26923"
+       ry="35.587677"
+       inkscape:transform-center-x="94.24039"
+       inkscape:transform-center-y="90.242302" />
+    <rect
+       style="fill:#8bffe7;fill-opacity:1"
+       id="rect5824"
+       width="0"
+       height="0"
+       x="0"
+       y="0"
+       transform="scale(0.26458333)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:158.832px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.97081"
+       x="10.680784"
+       y="192.29535"
+       id="text11138"
+       transform="scale(1.0403413,0.96122301)"><tspan
+         sodipodi:role="line"
+         id="tspan11136"
+         style="fill:#ffffff;stroke-width:3.97081"
+         x="10.680784"
+         y="192.29535">F</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:162.789px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.06972"
+       x="86.959526"
+       y="191.59816"
+       id="text14792"><tspan
+         sodipodi:role="line"
+         id="tspan14790"
+         style="fill:#ffffff;stroke-width:4.06972"
+         x="86.959526"
+         y="191.59816">B</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+</svg>
